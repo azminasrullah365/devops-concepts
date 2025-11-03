@@ -113,5 +113,3 @@ A new open-source standard that provides a standardized, secure way for AI model
 
 ---
 
-📘 *Maintained by [Your Name or GitHub Handle]*  
-💡 *Contributions welcome! Feel free to submit a pull request with additional terms or corrections.*
